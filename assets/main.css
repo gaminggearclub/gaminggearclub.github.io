@@ -1,0 +1,19 @@
+body {
+    background-color: #3C1D3E;
+}
+
+.container {
+    position: fixed;
+    display: flex;
+    height: calc(100% - 80px);
+    width: calc(100%);
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
